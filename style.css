@@ -1,0 +1,27 @@
+/* Parts of a CSS Rule */
+
+/*
+
+1. Selector
+2. Property
+3. Value
+
+*/
+
+h1 {
+    color: green;
+}
+
+#subheading {
+    color: royalblue;
+}
+
+.lorem {
+    background-color: springgreen;
+    padding: 30px;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+}
+
